@@ -1,0 +1,11 @@
+[
+  {
+    "Id": 0,
+    "Type": 1,
+    "UserName": "mast",
+    "Password": "123",
+    "Balance": 150,
+    "IsAdmin": true,
+    "IsVendor": false
+  }
+]
